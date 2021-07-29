@@ -21,8 +21,12 @@ A wordcloud with the most frequent words was constructed.
 
 # #datascience
 
+![#datascience_wordcloud](https://github.com/melisadigiacomo/tweets_wordcloud/blob/master/%23datascience_wordcloud.png)
+
 It is observed that there was strong association between **BigData, Analytics, Deeplearning, IoT, Python, Javascript**, as expected.
 
 # #covidvaccine
+
+![#covidvaccine_wordcloud](https://github.com/melisadigiacomo/tweets_wordcloud/blob/master/%23covidvaccine_wordcloud.png)
 
 Tweets citing #covidvaccine have been returned covering the period between 22 July 2021 and 28 July 2021. People associated words like **health, dose, free, delta variant and availability** with covid vaccines. The most mentioned vaccines in decreased order were: **Pfizer, Covishield, Covaxin, Sputnik V, Moderna and AstraZeneca**.
