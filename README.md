@@ -1,5 +1,5 @@
 # Wordcloud with Twitter hashtags: Project Overview 
-* Code that returns a wordcloud of a specific topic or hashtag of Twitter.
+* Code that returns a wordcloud of a specific Twitter topic or hashtag.
 * Scraped tweets from Twitter API using rtweet package.
 * Text analytics. 
 * Created a wordcloud with the most frequent words of the hashtag.
